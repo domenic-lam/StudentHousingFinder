@@ -15,8 +15,8 @@ It will support:
 * Favorites for users*
 * *We were not able to finish implementing these items.
 
-* Register and Sign In Note: *
-* Because owners and students have different permissions for listings, page will look different depending on whether you sign up as an owner or a student. *
+_ Register and Sign In Note: _
+> Because owners and students have different permissions for listings, page will look different depending on whether you sign up as an owner or a student.
 
 @Ely Lam implemented:
 * Registering the owners and updating their listings as they post new housing listings.
