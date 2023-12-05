@@ -18,7 +18,7 @@ It will support:
 _ Register and Sign In Note: _
 > Because owners and students have different permissions for listings, page will look different depending on whether you sign up as an owner or a student.
 
-@Ely Lam implemented:
+@Domenic Lam implemented:
 * Registering the owners and updating their listings as they post new housing listings.
 * CRUD operations on the listings.
 * CRUD operations on the messages between users and ensuring each message has one distinct sender and one distinct receiver.
@@ -31,7 +31,7 @@ _ Register and Sign In Note: _
 * CRUD operations on the user and ensuring users have a unique username and password.
 
 ## Authors:
-Bernard Ekezie (https://github.com/bekezie) & Ely (Esther) Lam (https://github.com/ely-lam)
+Bernard Ekezie (https://github.com/bekezie) & Domenic (Ely) Lam (https://github.com/ely-lam)
 
 UML Diagram
 ![Logo](screenshots/Project1_UML.png)
